@@ -17,7 +17,7 @@ Install the package by running the following command
 For this project, I was interested in creating and publishing a simple package to pypi.
 Pypi is a is a repository of software for the Python programming language. It is used by Python developers to to publicize and share their software.
 
-Once uploaded to pypi, the package can be used by all Python users after installing it. Below is the sample usage:
+The package can be used by all Python users after installing it. Below is a sample usage:
 ```
 >>> from nearest_square import nearest_square as nsqr
 >>> nsqr(101)
@@ -35,5 +35,24 @@ Once uploaded to pypi, the package can be used by all Python users after install
     * `nearest_square.py` : Python file containing actual program/code
     * `setup.cfg` : Setup file
 
-## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+## Licensing<a name="licensing"></a>
 Author: Rahul Gupta
+Copyright 2020
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
