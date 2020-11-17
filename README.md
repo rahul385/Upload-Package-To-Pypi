@@ -15,7 +15,7 @@ Install the package by running the following command
 ## Project Motivation<a name="motivation"></a>
 
 For this project, I was interested in creating and publishing a simple package to pypi.
-Pypi is a is a repository of software for the Python programming language. It is used by Python developers to to publicize and share their software.
+Pypi is a is a repository of software for the Python programming language. It is used by Python developers to publicize and share their software.
 
 The package can be used by all Python users after installing it. Below is a sample usage:
 ```
