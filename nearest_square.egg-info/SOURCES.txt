@@ -1,0 +1,8 @@
+setup.py
+nearest_square/__init__.py
+nearest_square/nearest_square.py
+nearest_square.egg-info/PKG-INFO
+nearest_square.egg-info/SOURCES.txt
+nearest_square.egg-info/dependency_links.txt
+nearest_square.egg-info/not-zip-safe
+nearest_square.egg-info/top_level.txt
