@@ -1,3 +1,5 @@
+#Author: Rahul Gupta
+
 def nearest_square(num):
 
     """Function to calculate nearest square of any number.
