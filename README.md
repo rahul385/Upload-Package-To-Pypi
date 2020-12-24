@@ -1,7 +1,7 @@
 # Upload-Package-To-Pypi
 
 ### Table of Contents
-1. [Blog Post](https://medium.com/@rahulgupta1/upload-your-python-package-to-pypi-c45ad6a52a13)
+1. [Link to Blog Post](https://medium.com/@rahulgupta1/upload-your-python-package-to-pypi-c45ad6a52a13)
 2. [Installation](#installation)
 3. [Project Motivation](#motivation)
 4. [File Descriptions](#files)
@@ -14,9 +14,9 @@ Install the package by running the following command
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interested in creating and publishing a simple package to pypi so that any Python programmer could use my package. Pypi is a is a repository of software for the Python programming language. It is used by Python developers to publicize and share their software.
+For this project, I was interested in creating and publishing a simple package to PyPi so that any Python programmer could install and use my package. Pypi is a repository of software for the Python programming language. It is used by Python developers to publicize and share their software.
 
-I chose to have avery basic Python module in the form of calculating nearest-squares, since the objective was to learn how to upload a package to PyPi and make it available for general public.
+I chose to have a very basic Python module in the form of calculating nearest-squares, since the objective was to learn how to upload a package to PyPi and make it available for general public.
 
 The package can be used by all Python users after installing it. Below is a sample usage:
 ```
