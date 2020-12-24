@@ -28,9 +28,10 @@ The package can be used by all Python users after installing it. Below is a samp
 ## File Descriptions <a name="files"></a>
 
 * Upload-Package-To-Pypi : Container folder, includes the following files:
-    * `license.txt` : License
-    * `Readme.md` : Description of the package and its usage
     * `setup.py` : Contains name of the package and author's information
+    * `Readme.md` : Description of the package and its usage
+    * `license.txt` : License information
+    
 * nearest_square: Includes all package files
     * `__init__.py` : Initialization file
     * `nearest_square.py` : Python file containing actual program/code
