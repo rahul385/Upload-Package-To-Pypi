@@ -1,11 +1,17 @@
 # Upload-Package-To-Pypi
 
 ### Table of Contents
-1. [Link to Blog Post](https://medium.com/@rahulgupta1/upload-your-python-package-to-pypi-c45ad6a52a13)
+1. [Blog Post](#Blog_Post)
 2. [Installation](#installation)
 3. [Project Motivation](#motivation)
 4. [File Descriptions](#files)
 6. [Licensing, Authors, and Acknowledgements](#licensing)
+
+## Blog Post <a name="Blog_Post"></a>
+Here is the link to my blog post that describes the steps to upload any custom package to PyPi.
+
+[Upload package to PyPi](https://medium.com/@rahulgupta1/upload-your-python-package-to-pypi-c45ad6a52a13)
+
 
 ## Installation <a name="installation"></a>
 Install the package by running the following command
