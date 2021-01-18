@@ -1,13 +1,12 @@
 # Upload-Package-To-Pypi
 
 ### Table of Contents
-1. [Blog Post](#Blog_Post)
-2. [Installation](#installation)
-3. [Project Motivation](#motivation)
-4. [File Descriptions](#files)
-6. [Licensing, Authors, and Acknowledgements](#licensing)
+1. [Installation](#installation)
+2. [Project Motivation](#motivation)
+3. [File Descriptions](#files)
+4. [Licensing, Authors, and Acknowledgements](#licensing)
 
-## Blog Post <a name="Blog_Post"></a>
+## Blog Post
 Here is the link to my blog post that describes the steps to upload any custom package to PyPi.
 
 [Upload package to PyPi](https://medium.com/@rahulgupta1/upload-your-python-package-to-pypi-c45ad6a52a13)
@@ -33,15 +32,14 @@ The package can be used by all Python users after installing it. Below is a samp
 
 ## File Descriptions <a name="files"></a>
 
-* Upload-Package-To-Pypi : Container folder, includes the following files:
-    * `setup.py` : Contains name of the package and author's information
-    * `Readme.md` : Description of the package and its usage
-    * `license.txt` : License information
-    
 * nearest_square: Includes all package files
     * `__init__.py` : Initialization file
     * `nearest_square.py` : Python file containing actual program/code
     * `setup.cfg` : Setup file
+
+* `setup.py` : Contains name of the package and author's information
+
+* `license.txt` : License information
 
 ## Licensing<a name="licensing"></a>
 Author: Rahul Gupta
