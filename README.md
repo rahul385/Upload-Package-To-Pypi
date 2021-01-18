@@ -11,6 +11,7 @@ Here is the link to my blog post that describes the steps to upload any custom p
 
 [Upload package to PyPi](https://medium.com/@rahulgupta1/upload-your-python-package-to-pypi-c45ad6a52a13)
 
+![Screenshot 1](https://github.com/rahul385/Upload-Package-To-Pypi/blob/master/PyPi.png)
 
 ## Installation <a name="installation"></a>
 Install the package by running the following command
@@ -40,6 +41,7 @@ The package can be used by all Python users after installing it. Below is a samp
 * `setup.py` : Contains name of the package and author's information
 
 * `license.txt` : License information
+
 
 ## Licensing<a name="licensing"></a>
 Author: Rahul Gupta
