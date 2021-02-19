@@ -1,5 +1,7 @@
 # Upload-Package-To-Pypi
 
+<p align = 'center'><img src = 'PyPi.png', height=250, width =380></p>
+
 ### Table of Contents
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
@@ -7,14 +9,12 @@
 4. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Blog Post
-Here is the link to my blog post that describes the steps to upload any custom package to PyPi.
+Here is the link to my blog post in Medium, describing the steps to upload any custom package to PyPi.
 
 [Upload package to PyPi](https://medium.com/@rahulgupta1/upload-your-python-package-to-pypi-c45ad6a52a13)
 
-![Screenshot 1](https://github.com/rahul385/Upload-Package-To-Pypi/blob/master/PyPi.png)
-
 ## Installation <a name="installation"></a>
-Install the package by running the following command
+I have created and uploaded a package in PyPi named "nearest-square". You can install this package by running the following command.
 
 `pip install nearest-square`
 
@@ -22,16 +22,17 @@ Install the package by running the following command
 
 For this project, I was interested in creating and publishing a simple package to PyPi so that any Python programmer could install and use my package. Pypi is a repository of software for the Python programming language. It is used by Python developers to publicize and share their software.
 
-I chose to have a very basic Python module in the form of calculating nearest-squares, since the objective was to learn how to upload a package to PyPi and make it available for general public.
+Since the objective was to learn how to upload a package to PyPi and make it available for general public, I chose to have a very basic Python module in the form of calculating nearest-squares.
 
 The package can be used by all Python users after installing it. Below is a sample usage:
+
 ```
 >>> from nearest_square import nearest_square as nsqr
 >>> nsqr(101)
 100
 ```
 
-## File Descriptions <a name="files"></a>
+## File Descriptions<a name="files"></a>
 
 * nearest_square: Includes all package files
     * `__init__.py` : Initialization file
